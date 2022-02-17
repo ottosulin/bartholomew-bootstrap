@@ -10,7 +10,7 @@ Note that the sample site is included (i.e. not gitignored) in the repository fo
 * Run the run.sh script for a sample run with wagi
 
 ## Links to associated repositories
-* [Bartholomew repo](https://github.com/fermyon/bartholomew)
+* [Bartholomew](https://github.com/fermyon/bartholomew)
 * [Bartholomew site template](https://github.com/fermyon/bartholomew-site-template)
 * [wagi-fileserver](https://github.com/deislabs/wagi-fileserver)
 * [wagi](https://github.com/deislabs/wagi)
