@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cd site && wagi -c site/modules.toml
+wagi -c site/modules.toml
